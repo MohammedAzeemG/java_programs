@@ -1,4 +1,4 @@
-package intro.dev;
+package intro.dev.com;
 
 import java.util.Scanner;
 
@@ -24,3 +24,4 @@ public class MyFirstExample {
 	}
 
 }
+
