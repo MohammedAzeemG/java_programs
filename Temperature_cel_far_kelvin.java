@@ -50,6 +50,7 @@ public class Temperature_cel_far_kelvin {
 			System.out.println("The value in Celcius = "+c+"C");
 			System.out.println("The value in Fahrenheit = "+f+"F");
 		}
+		scan.close();
 	}
 
 }
